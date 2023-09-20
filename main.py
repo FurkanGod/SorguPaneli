@@ -28,25 +28,6 @@ while True:
 
 client = TelegramClient(StringSession(session_string), api_id, api_hash)
 
-trigger_texts = ['@Furkanisyanedior', 'Furkan', 'furkan']
-
-
-response_text = 'SAHİBİMİ RAHATSIZ ETME GÖTÜNÜ SİKERİM.'
-
-
-@client.on(events.NewMessage(incoming=True))
-async def handle_trigger(event):
-    try:
-        message = event.message
-        text = message.text.lower()  
-
-        
-        if any(trigger_text in text for trigger_text in trigger_texts) and not message.sender_id in sudo_users:
-            await message.reply(response_text)
-
-    except Exception as e:
-        print(f"Hata: {str(e)}")
-
 oc = "https://teknobash.com/apiservice/tc.php?auth=tekno"
 anan = "https://teknobash.com/apiservice/gsmtc.php?auth=tekno"
 baban = "https://teknobash.com/apiservice/tcgsm.php?auth=tekno"
