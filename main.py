@@ -188,7 +188,7 @@ async def handle_tcgsm(event):
         message = event.message
         user_id = message.sender_id
 
-        # Sadece sudo_users kullanabilir
+        
         if user_id not in sudo_users:
             raise Exception("Siktir Git Piç Bu Komut Sahibime Özel!")
 
@@ -204,7 +204,7 @@ async def handle_tcgsm(event):
         if len(data) > 0:
             result = data[0]
 
-            # Sonuç mesajını oluştur
+            
             output_message = (
                 f"╔═══════════════\n╟ İllegal Checker </>\n╚═══════════════\n\n"
                 f"╔═══════════════\n╟ TC: {result.get('TC', '')}\n"
