@@ -10,3 +10,4 @@ Bu Proje [@FurqanGod](https://FurqanGod.t.me/) Hesabına Aittir Kurulum Hakkınd
 
 ![Eski SS](https://graph.org/file/a1817024563dd31e62167.jpg)
 
+Bu Eski Ekran Görüntüsüdür Güncel Hali Daha Güzel :)
