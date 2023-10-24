@@ -5,3 +5,8 @@
 # İLETİŞİM
 
 Bu Proje [@FurqanGod](https://FurqanGod.t.me/) Hesabına Aittir Kurulum Hakkında Yardım İçin Yazabilirsiniz.
+
+# UYGULAMA GÖRÜNTÜSÜ:
+
+![Eski SS](https://graph.org/file/a1817024563dd31e62167.jpg)
+
