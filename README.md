@@ -4,7 +4,7 @@
 
 # İLETİŞİM
 
-**Bu Proje [@FurqanGod](https://FurqanGod.t.me/) Hesabına Aittir Kurulum Hakkında Yardım İçin Yazabilirsiniz.**
+**Bu Proje [@Furkanisyanediyo](https://Furkanisyanediyo.t.me/) Hesabına Aittir Kurulum Hakkında Yardım İçin Yazabilirsiniz.**
 
 # UYGULAMA GÖRÜNTÜSÜ:
 
